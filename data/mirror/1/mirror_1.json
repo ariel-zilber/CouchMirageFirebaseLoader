@@ -1,0 +1,21 @@
+{
+  "sizes": [
+    16,
+    27,
+    43
+  ],
+  "details": {
+    "description": "המגש שמתחת למראה שומר על הפריטים הקטנים יותר במקומם.\nבחרו את הסגנון של המראה שלכם. תוכלו לבחור אם להרכיב את העיטור העליון.",
+    "good_to_know": "ניתן להפוך את המראה."
+  },
+  "category": "MIRRORS",
+  "price": 69,
+  "color": "black",
+  "rendable": "models/mirror_1.glb",
+  "images": [
+    "images/mirror_1_1.jpg",
+    "images/mirror_1_2.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Decoration/Mirrors/00294979",
+  "model": "KARMSUND"
+}

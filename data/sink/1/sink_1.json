@@ -1,0 +1,21 @@
+{
+  "sizes": [
+    47,
+    80,
+    92
+  ],
+  "details": {
+    "description": "",
+    "good_to_know": "רגלי GODMORGON נמכרות בנפרד.\nאנא שימו לב לכך שלצורך חיבור הכיור למשטח העליון יש להצטייד בערכת סיליקון ומסור אנכי; נמכרים בנפרד.\nכולל ידיות.\nכולל סיפון ומסננת.\n.כולל ברז ומסננת"
+  },
+  "category": "BATHROOOM STORAGE",
+  "price": 1940,
+  "color": "white/wood",
+  "rendable": "models/sink_1.glb",
+  "images": [
+    "images/sink_1_1.jpg",
+    "images/sink_1_2.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Bathroom/Bathroom_sets/39308819",
+  "model": "GODMORGON/TOLKEN/TÖRNVIKEN"
+}

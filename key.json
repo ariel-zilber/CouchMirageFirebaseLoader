@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "couchmirage-74314",
+  "private_key_id": "4e81ee27211659878ee11899dc515c0746ac0dc2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4pHnLC8n8Yqas\nhIOwN3GPn5TOiChyveW0/EH7sxFieZZtjBwhxTEsoQVMWwGtDgrEPYbiRLaJVpWY\nXiPHNyup0NoskfHTMapHI053AlSRTc1V4npxmHjDAetG64WVcfnHkLtXvl67h3Ul\nTWvQTkYTpe1+WnrcSwlm+s9pp0K0pjtfKtvOdahtLJR0vdu0YWXaQff5nOAVFNB6\nhzxz1IRInP5b2sE753lnxaQUBX1nx6bekomjQ+Y84We9BO+jegdTCLd4Q+Wmr1LR\neQIhflXXyHfIur5Mso5Wf9v4ImJMyOY8zf9u0cz6y4jecSIbk/gNcYlFN9Fo0B2o\nvSV64QdjAgMBAAECggEALIRzXPIts+0xFF0qxvzHI4KtRRJs9iU00esUGZR195Er\nJKRoT/gUQBdeiKdUgx3kmKXg9ILuo7Q9gywHYku5+kqBn8dcT7gkvtwTWfw02Yex\nnyhoryS80P+Qc1vrrDl7qJMLqD8c5gflxaWh/eoxWSFjXliAUMbCsJJ+GZIbMiSM\nBSXWL9yEN9cQA11zORoxpQ1iLSsxA9ko3YcGmmZOQqyBrpIcVpp2WSa/eISfRKHs\nlvdHE6cB8EKhmE3pC5vwLR6eJS9rGBFzUeKbD2oiFOTZJsjBjMgUYftJtJ11lh6y\nKR+j97f63qsDZ2bJ1GV/ylQAmd8oQMkaw9IniMDBeQKBgQD+Dw1INoUIcrGWZ2Fk\nJcKPJ5Y5CFgrnju32aeB0VTTmkK+29yA5FAR4lhwFGJrZewZfwDgAS8yvw53ZIF1\nyUXiwEa/PPr31cO6OnHReV3ppLAOknW1bJsudX6DeiIIoyK/2N438qCP8n9yqif0\n44d0/paSEMLKYrSb9L84QTV+VwKBgQC6DaSgeoXW6XbdBs7rz2dN0ti71soGLxrc\n3bqDFs+V1eNSvwESZjmAUNW9yb/QtggN3oaximSUyQnQ0ZRJmIoL9lXilu17r08+\nx5GqTB17bbaqo76naiJXHOhV6vAINVV2QCJwm1lDRpPkAVhesgIsH6CTmZ+N6yRw\n4xtwp0S/1QKBgQDgt4+YACFLh6ds0aRjYMLmvK0zZR4X9q37wJlZSj8tq5S+HNq9\nZzUrnHl9KYqkVFKxepTbjjChQj0ZfdzEwnL+TfRF0zppXLrzTh6+mgtnTjQrr4BO\nKPJZ9bMhuDXCTgm+h6SG+CTtLiFs2vTctyRpZ4bnS8wAF66JA8Lfj04xoQKBgE+T\nEjxI6wF2LQ5voQSeWnKgoW4FebaXYwfgFauHkBVnu6hiZRT3f9RvvltD9LRRhrRX\n3ogExuwT6AzV9nRbt39SRn15S+1Al8YkGRsbHujxjdUB38M+050qkfxdVXhNR1Yi\nLBi5eL4ba5lzMdaej+tLQ6Sdae6LCbT2jX/rKq5ZAoGACSwkLRThOBmcI0FFdKS7\nxZzu+E8ZlRkDaJxmSMNoRrXYx1O6CgxWuH7EnKv75ugQCXK/7oGzGZkTfjJ/HDc8\nsFY7JWnXnuV0V/+gp/OEpd3lB3nOHMURMiN2s+DVuW6nYfQTrmLOqyu3XPKz+EqJ\nvO0PNuYR1twJQuFlHsoGTGI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-owu3q@couchmirage-74314.iam.gserviceaccount.com",
+  "client_id": "100213715912558408133",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-owu3q%40couchmirage-74314.iam.gserviceaccount.com"
+}

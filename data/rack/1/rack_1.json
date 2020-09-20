@@ -1,0 +1,21 @@
+{
+  "sizes": [
+    33,
+    75,
+    42
+  ],
+  "details": {
+    "description": "מתקן לנעליים",
+    "good_to_know": "  ניתן לחבר שתי יחידות אחת על השנייה; כולל אבזרי חיבור. "
+  },
+  "category": "SMALL STORAGE",
+  "price": 145,
+  "color": "black",
+  "rendable": "models/rack_1.glb",
+  "images": [
+    "images/rack_1_1.jpg",
+    "images/rack_1_2.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Bedroom_furniture/Hallway_furniture/10152639",
+  "model": "TJUSIG"
+}

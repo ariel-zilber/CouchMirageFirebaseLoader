@@ -1,0 +1,22 @@
+{
+  "sizes": [
+    35,
+    60,
+    35
+  ],
+  "details": {
+    "description": "צרו פתרון אחסון אסימטרי או יוצא דופן והוסיפו את החפצים שלכם. הערימו אחד על השני ושלבו כרצונכם.\nשמרו על המסמכים החשובים שלכם על ידי ארגונם בחלק הפנימי של דלת הארונית.\nניתן להשתמש בארונית בשילוב הרגליים המצורפות או להניח אותה על הרצפה.\nמסייע במציאת פריטים קטנים כמו מטענים, מפתחות וארנקים, או פריטים גדולים יותר כמו תיקים וצעצועים. ",
+    "good_to_know": "  ארונות\u200E 35X60 ו–60X35 ס\"מ ניתנים לערימה, אך לא ניתן לתלותם על הקיר. "
+  },
+  "category": "STORAGE FURNITURE",
+  "price": 195,
+  "color": "grey",
+  "rendable": "models/cabinet_1.glb",
+  "images": [
+    "images/cabinet_1_1.jpg",
+    "images/cabinet_1_2.jpg",
+    "images/cabinet_1_3.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Store_and_organise_furniture/Solitaire_cabinets/70328669",
+  "model": "LIXHULT"
+}

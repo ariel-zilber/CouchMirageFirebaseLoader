@@ -1,0 +1,22 @@
+{
+  "sizes": [
+    58,
+    88,
+    208
+  ],
+  "details": {
+    "description": "צירים עם בולמי טריקה משולבים התופסים את הדלת כך שתסגר לאט, בשקט וברכות.",
+    "good_to_know": "אזהרה! סכנת נפילה – רהיטים שאינם מקובעים לקיר עלולים ליפול."
+  },
+  "category": "CLOTHES STORAGE",
+  "price": 1695,
+  "color": "white",
+  "rendable": "models/wardrobe_1.glb",
+  "images": [
+    "images/wardrobe_1_1.jpg",
+    "images/wardrobe_1_2.jpg",
+    "images/wardrobe_1_3.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Bedroom_furniture/Solitaire_wardrobes/00298128",
+  "model": "TYSSEDAL"
+}

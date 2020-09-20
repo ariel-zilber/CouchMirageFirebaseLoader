@@ -1,0 +1,21 @@
+{
+  "sizes": [
+    16,
+    50,
+    68
+  ],
+  "details": {
+    "description": "תוכלו לתלות מגוון פריטים כגון מעילים ושרשראות על גבי הווים. המדף הפנימי יכול לשמש לאחסון איפור ומשקפי שמש..",
+    "good_to_know": "נבדק ואושר לשימוש בחדרh האמבטיה; מתאים לשימוש ברוב החדרים.\nכולל ציפוי בטיחותי; מקטין את הנזק אם הזכוכית נשברת. "
+  },
+  "category": "MIRRORS",
+  "price": 295,
+  "color": "yellow",
+  "rendable": "models/mirror_2.glb",
+  "images": [
+    "images/mirror_2_1.jpg",
+    "images/mirror_2_2.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Decoration/Mirrors/80297002",
+  "model": "SALTRÖD"
+}

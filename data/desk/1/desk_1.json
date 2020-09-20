@@ -1,0 +1,22 @@
+{
+  "sizes": [
+    160,
+    80,
+    90
+  ],
+  "details": {
+    "guarantee": "מידע על תנאי אחריות ניתן למצוא בתעודת אחריות. ",
+    "description": "משטח המלמין עמיד, דוחה כתמים וקל לניקוי. משטח עבודה עמוק מקנה לכם מקום עבודה מרווח ומאפשר ישיבה במרחק נוח ממסך המחשב.",
+    "product_detail": "משטח המלמין עמיד, דוחה כתמים וקל לניקוי. משטח עבודה עמוק מקנה לכם מקום עבודה מרווח ומאפשר ישיבה במרחק נוח ממסך המחשב."
+  },
+  "category": "DESKS",
+  "price": 495,
+  "color": "white/silver",
+  "rendable": "models/desk_1.glb",
+  "images": [
+    "images/desk_1_1.jpg",
+    "images/desk_1_2.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Workspaces/Office_desks_and_tables/89110934",
+  "model": "THYGE"
+}

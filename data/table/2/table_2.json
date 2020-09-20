@@ -1,0 +1,22 @@
+{
+  "sizes": [
+    50,
+    50,
+    45
+  ],
+  "details": {
+    "description": "מדף נפרד לאחסון כתבי עת וכדומה. מסייע בשמירת הסדר והארגון ומפנה מקום על השולחן.",
+    "good_to_know": "כולל גלגלים; ניתן להעביר בקלות ממקום למקום. "
+  },
+  "category": "TABLES",
+  "price": 195,
+  "color": "WHITE",
+  "rendable": "models/table_2.glb",
+  "images": [
+    "images/table_2_1.jpg",
+    "images/table_2_2.jpg",
+    "images/table_2_3.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Living_room_seating/Side_tables/20295930",
+  "model": "HOL"
+}

@@ -1,0 +1,23 @@
+{
+  "sizes": [
+    76,
+    28,
+    153
+  ],
+  "details": {
+    "description": " קל לכוון את האור להיכן שתרצו היות ולמנורה יש זרוע וראש מתכווננים.",
+    "good_to_know": "תאורה ממוקדת המתאימה לקריאה. ",
+    "measurements": "אורך כבל \t185 ס\"מ\nמרבי \t11 וואט"
+  },
+  "category": "LIGHTNING",
+  "price": 245,
+  "color": "black",
+  "rendable": "models/lamp_2.glb",
+  "images": [
+    "images/lamp_2_1.jpg",
+    "images/lamp_2_2.jpg",
+    "images/lamp_2_3.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Lighting/Floor_lamps/90331374",
+  "model": "RANARP"
+}

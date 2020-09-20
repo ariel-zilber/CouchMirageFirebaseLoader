@@ -1,0 +1,21 @@
+{
+  "sizes": [
+    58,
+    36,
+    70
+  ],
+  "details": {
+    "description": " מעצורי מגירות המונעים שליפה יתר על המידה.",
+    "good_to_know": "ניתן להציב במרכז החדר הודות לגימור בגב. "
+  },
+  "category": "STORAGE FURNITURE",
+  "price": 395,
+  "color": "white",
+  "rendable": "models/drawer_1.glb",
+  "images": [
+    "images/drawer_1_1.jpg",
+    "images/drawer_1_2.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Workspaces/Home_desks/10192824",
+  "model": "ALEX"
+}

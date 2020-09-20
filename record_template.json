@@ -1,0 +1,19 @@
+{
+  "sizes": [
+    0,
+    0,
+    0
+  ],
+  "details": {
+    "description": ""
+  },
+  "category": "*",
+  "price": 0,
+  "color": "",
+  "rendable": "models/*.glb",
+  "images": [
+    "images/*.jpg"
+  ],
+  "source": "",
+  "model": ""
+}

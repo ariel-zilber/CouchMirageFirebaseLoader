@@ -1,0 +1,21 @@
+{
+  "sizes": [
+    47,
+    60,
+    99
+  ],
+  "details": {
+    "description": "משתלב היטב עם מוצרים נוספים מסדרת HEMNES.\nהמראה המעוצב והפשוט של המגירות והידיות מדגיש את הסגנון הסקנדינבי.",
+    "good_to_know": "כולל ברז ומסננת"
+  },
+  "category": "BATHROOOM STORAGE",
+  "price": 1540,
+  "color": "white",
+  "rendable": "models/sink_2.glb",
+  "images": [
+    "images/sink_2_1.jpg",
+    "images/sink_2_2.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Bathroom/Bathroom_sets/29293682",
+  "model": " HEMNES/RÄTTVIKEN "
+}

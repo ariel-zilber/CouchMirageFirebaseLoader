@@ -1,0 +1,21 @@
+{
+  "sizes": [
+    30,
+    80,
+    83
+  ],
+  "details": {
+    "description": "עץ מלא ללא גימור הנו חומר טבעי עמיד, אשר ניתן להוסיף לו גימור שמן או שעווה לטיפול קל ועמידות משופרת עוד יותר.",
+    "good_to_know": "ניתן להזיז את המדפים ולהתאים את הרווח בינהם לפי הצורך."
+  },
+  "category": "KITCHEN CABINETS & APPLIANCES",
+  "price": 395,
+  "color": "wood",
+  "rendable": "models/kitchen_2.glb",
+  "images": [
+    "images/kitchen_2_1.jpg",
+    "images/kitchen_2_2.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Outdoor/Outdoor_storage/40033763",
+  "model": "IVAR"
+}

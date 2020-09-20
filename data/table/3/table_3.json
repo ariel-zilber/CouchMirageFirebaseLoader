@@ -1,0 +1,22 @@
+{
+  "sizes": [
+    64,
+    64,
+    45
+  ],
+  "details": {
+    "description": "מדף נפרד לאחסון כתבי עת וכדומה. מסייע בשמירת הסדר והארגון ומפנה מקום על השולחן.",
+    "good_to_know": "כולל גלגלים; ניתן להעביר בקלות ממקום למקום. "
+  },
+  "category": "TABLES",
+  "price": 245,
+  "color": "WHITE",
+  "rendable": "models/table_3.glb",
+  "images": [
+    "images/table_3_1.jpg",
+    "images/table_3_2.jpg",
+    "images/table_3_3.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Living_room_seating/Side_tables/20295925",
+  "model": "TINGBY"
+}

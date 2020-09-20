@@ -1,0 +1,23 @@
+{
+  "sizes": [
+    50,
+    50,
+    50
+  ],
+  "details": {
+    "description": " עץ מלא, חומר טבעי עמיד.",
+    "good_to_know": "מקום אחסון שימושי מתחת למשטח העליון. "
+  },
+  "category": "TABLES",
+  "price": 195,
+  "color": "wood",
+  "rendable": "models/table_1.glb",
+  "images": [
+    "images/table_1_1.jpg",
+    "images/table_1_2.jpg",
+    "images/table_1_3.jpg",
+    "images/table_1_4.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Living_room_seating/Side_tables/70161320",
+  "model": "HOL"
+}

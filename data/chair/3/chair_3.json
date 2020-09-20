@@ -1,0 +1,21 @@
+{
+  "sizes": [
+    53,
+    43,
+    91
+  ],
+  "details": {
+    "description": "גב גבוה ליתר נוחות ישיבה.\nכולל עץ מלא,חומר טבעי עמיד וחזק",
+    "good_to_know": "נבדק עבור \t110 ק\"ג"
+  },
+  "category": "CHAIRS",
+  "price": 295,
+  "color": "black",
+  "rendable": "models/chair_3.glb",
+  "images": [
+    "images/chair_3_1.jpg",
+    "images/chair_3_2.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Dining/Chairs_incl_covers_folding_chairs_and_benches/60217822",
+  "model": "INGOLF"
+}

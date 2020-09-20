@@ -1,0 +1,21 @@
+{
+  "sizes": [
+    126,
+    66,
+    86
+  ],
+  "details": {
+    "description": "תינוקכם יישן בבטיחות ונוחות מאחר והחומרים העמידים בבסיס מיטת התינוק נבדקו כדי לוודא שהם מעניקים לגוף את התמיכה שהוא צריך.",
+    "good_to_know": "ניתן למקם את בסיס המיטה בשני גבהים שונים.\nניתן להסיר צד אחד של מיטת התינוק כאשר הילד גדול מספיק כדי להיכנס ולצאת מהמיטה. "
+  },
+  "category": "BABY & CHILDREN PRODUCTS",
+  "price": 1195,
+  "color": "white",
+  "rendable": "models/children_2.glb",
+  "images": [
+    "images/children_2_1.jpg",
+    "images/children_2_2.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Childrens_IKEA/Cots/89253169",
+  "model": "STUVA/FRITIDS"
+}

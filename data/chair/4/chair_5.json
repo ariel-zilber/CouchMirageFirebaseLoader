@@ -1,0 +1,21 @@
+{
+  "sizes": [
+    50,
+    41,
+    95
+  ],
+  "details": {
+    "description": "  עץ מלא; חומר טבעי עמיד שניתן לשייף ולעבד לפי הצורך. ",
+    "good_to_know": " ניתן להשלים עם מגן רצפה מונע שריטות FIXA.\nכיסא זה נבדק ואושר לשימוש ביתי, עמיד ובטיחותי, ועומד בתקנים: EN 12520 ו-EN 1022. "
+  },
+  "category": "CHAIRS",
+  "price": 125,
+  "color": "wood",
+  "rendable": "models/chair_5.glb",
+  "images": [
+    "images/chair_5_1.jpg",
+    "images/chair_5_2.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Dining/Chairs_incl_covers_folding_chairs_and_benches/90263902",
+  "model": "IVAR"
+}

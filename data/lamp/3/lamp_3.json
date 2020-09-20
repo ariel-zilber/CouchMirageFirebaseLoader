@@ -1,0 +1,22 @@
+{
+  "sizes": [
+    31.5,
+    31.5,
+    181
+  ],
+  "details": {
+    "description": "ראש המנורה המוגדל מעניק גם אור מרוכז טוב לקריאה ואור כללי טוב לאזורים קטנים.",
+    "good_to_know": "ניתן לכוון את האור בקלות לאן שתצטרכו הודות לראש המנורה המתכוונן. למשל, ניתן לכוון אותו על ספר לצורך קריאה, להשתמש בו כתאורה עילית או לכוון אותו כדי שיתמקד  באזור מסוים בחדר.",
+    "energy_consumption": "הספק \t4 W\nצריכת אנרגיה מקסימלית \t100 W\nמרבי \t53 וואט"
+  },
+  "category": "LIGHTNING",
+  "price": 295,
+  "color": "grey",
+  "rendable": "models/lamp_3.glb",
+  "images": [
+    "images/lamp_3_1.jpg",
+    "images/lamp_3_2.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Lighting/Floor_lamps/00215307",
+  "model": "HEKTAR"
+}

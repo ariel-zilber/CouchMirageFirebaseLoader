@@ -1,0 +1,21 @@
+{
+  "sizes": [
+    28,
+    28,
+    28
+  ],
+  "details": {
+    "description": "פלסטיק; חומר עמיד וקל לניקוי. ",
+    "good_to_know": " נקו בעדינות לפי הצורך באמצעות מטלית ספוגה במים ובחומר ניקוי נוזלי עדין. "
+  },
+  "category": "KITCHEN CABINETS & APPLIANCES",
+  "price": 7,
+  "color": "white",
+  "rendable": "models/kitchen_1.glb",
+  "images": [
+    "images/kitchen_1_1.jpg",
+    "images/kitchen_1_2.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Home_organisation/Sorting_bins/40295439",
+  "model": "FNISS"
+}

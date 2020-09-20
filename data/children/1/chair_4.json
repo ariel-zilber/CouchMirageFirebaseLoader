@@ -1,0 +1,22 @@
+{
+  "sizes": [
+    56 ,
+    58,
+    48
+  ],
+  "details": {
+    "description": "תנוחת ישיבה נוחה הודות לגובה המתכוונן של הכיסא .\nלגלגלי הבטיחות יש בלמים בעלי מכניזם רגיש ללחץ, השומר על הכיסא במקומו כאשר קמים ממנו, ומשתחרר באופן אוטומטי כאשר אתם מתיישבים. ",
+    "good_to_know": "מומלץ לגיל 4-12 שנים"
+  },
+  "category": "CHAIRS",
+  "price": 195,
+  "color": "white",
+  "rendable": "models/chair_4.glb",
+  "images": [
+    "images/chair_4_1.jpg",
+    "images/chair_4_2.jpg",
+    "images/chair_4_3.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Workspaces/Home_work_chairs/39207716",
+  "model": "JULES"
+}

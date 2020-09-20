@@ -1,0 +1,23 @@
+{
+  "sizes": [
+    38,
+    38,
+    168
+  ],
+  "details": {
+    "description": "ניתן ליצור אווירה חמימה בבית באמצעות אהיל מבד שמפיץ אור מפוזר ודקורטיבי.",
+    "good_to_know": "גובה מתכוונן; ניתן להתאים לפי צורכי התאורה שלכם. ",
+    "measurements": "אורך כבל \t2.3 מ'\nקוטר בסיס \t28 ס\"מ\nקוטר אהיל \t38 ס\"מ\nגובה מרבי \t168 ס\"מ\nמרבי \t13 וואט\nגובה מינימלי \t138 ס\"מ"
+  },
+  "category": "LIGHTNING",
+  "price": 395,
+  "color": "white",
+  "rendable": "models/lamp_1.glb",
+  "images": [
+    "images/lamp_1_1.jpg",
+    "images/lamp_1_2.jpg",
+    "images/lamp_1_3.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Lighting/Floor_lamps/90303106",
+  "model": "NYFORS"
+}

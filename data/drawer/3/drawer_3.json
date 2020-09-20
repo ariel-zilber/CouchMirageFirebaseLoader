@@ -1,0 +1,22 @@
+{
+  "sizes": [
+    50,
+    160,
+    96
+  ],
+  "details": {
+    "description": "ביתכם צריך להיות מקום בטיחותי למשפחה כולה. אבזרי הקיבוע מצורפים למוצר על מנת שתוכלו לקבע אותו לקיר.\nעשוי מעץ מלא, חומר טבעי עמיד בעל מראה חמים.",
+    "good_to_know": "אזהרה! סכנת נפילה – רהיטים שאינם מקובעים לקיר עלולים ליפול. יש לקבע רהיט זה לקיר באמצעות אבזר הבטיחות המצורף על מנת למנוע נפילה."
+  },
+  "category": "STORAGE FURNITURE",
+  "price": 1495,
+  "color": "white",
+  "rendable": "models/drawer_3.glb",
+  "images": [
+    "images/drawer_3_1.jpg",
+    "images/drawer_3_2.jpg",
+    "images/drawer_3_3.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Bedroom_furniture/Chest_of_drawers/10239280",
+  "model": "HEMNES"
+}

@@ -1,0 +1,22 @@
+{
+  "sizes": [
+    47,
+    39,
+    77
+  ],
+  "details": {
+    "description": "ניתן לערום את הכיסאות כדי לחסוך מקום כשאינם בשימוש. ",
+    "weight": "110 ק\"מ"
+  },
+  "category": "CHAIRS",
+  "price": 49,
+  "color": "black",
+  "rendable": "models/chair_2.glb",
+  "images": [
+    "images/chair_2_1.jpg",
+    "images/chair_2_2.jpg",
+    "images/chair_2_3.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Dining/Chairs_incl_covers_folding_chairs_and_benches/90214285",
+  "model": "ADDE"
+}

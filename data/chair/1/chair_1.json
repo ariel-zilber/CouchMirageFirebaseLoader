@@ -1,0 +1,19 @@
+{
+  "sizes": [
+    69,
+    79,
+    78
+  ],
+  "details": {
+    "description": "כולל כרית; מקנה תמיכת מותניים טובה."
+  },
+  "category": "CHAIRS",
+  "price": 495,
+  "color": "white",
+  "rendable": "models/chair_1.glb",
+  "images": [
+    "images/chair_1_1.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Living_room_seating/Armchairs/30410326",
+  "model": "TULLSTA"
+}

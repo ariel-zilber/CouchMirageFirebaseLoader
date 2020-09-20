@@ -1,0 +1,21 @@
+{
+  "sizes": [
+    102,
+    49,
+    74
+  ],
+  "details": {
+    "description": "עשוי מבמבוק",
+    "good_to_know": "במבוק הוא חומר עמיד, מתחדש ובר-קיימא.\nניתן להציב במרכז החדר הודות לגימור בגב.\nמעצורי מגירות המונעים שליפה יתר על המידה."
+  },
+  "category": "DESKS",
+  "price": 695,
+  "color": "wood",
+  "rendable": "models/desk_4.glb",
+  "images": [
+    "images/desk_4_1.jpg",
+    "images/desk_4_2.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Workspaces/Home_desks/90278277",
+  "model": "LILLÅSEN"
+}

@@ -1,0 +1,21 @@
+{
+  "sizes": [
+    45,
+    118,
+    74
+  ],
+  "details": {
+    "description": "הדוגמא המשתנה מקנה לכל שולחן אופי ייחודי.\nמשטח פורניר המילה ורגלי הליבנה המלא מעניקים תחושה חמימה וטבעית לחדר",
+    "good_to_know": "  המגירה מתאימה למחשב נייד 14 אינץ' לכל היותר. "
+  },
+  "category": "DESKS",
+  "price": 695,
+  "color": "wood",
+  "rendable": "models/desk_2.glb",
+  "images": [
+    "images/desk_2_1.jpg",
+    "images/desk_2_2.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Workspaces/Home_desks/30299070",
+  "model": "LISABO"
+}

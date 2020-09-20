@@ -1,0 +1,24 @@
+{
+  "sizes": [
+    199,
+    97,
+    84
+  ],
+  "details": {
+    "description": " הספה מעניקה לכם נוחות ותמיכה מרבית; הריפוד העבה בעל ליבה של קפיצי כיס, שכבת ספוג עליונה וסיבי פוליאסטר.\nליבת קפיצי הכיס עמידה ושומרת על הצורה והנוחות במשך זמן רב יותר.\nספה עמוקה ונוחה לישיבה.",
+    "good_to_know": "הריפוד העמיד NOLHAGA מיוצר מבד כותנה עבה ופילאסטר בגימור פרטים עדינים כמו צבע במראה שני גוונים.",
+    "environment_materials": "כיסוי קל לניקוי; ניתן להסרה ולכביסה במכונה.\nרגליים מעץ בוק מלא.",
+    "guarantee": "מידע על תנאי אחריות ניתן למצוא בתעודת אחריות. "
+  },
+  "category": "SOFAS & ARMCHAIRS",
+  "price": 3195,
+  "color": "dark green/light brown/wood",
+  "rendable": "models/sofa_1.glb",
+  "images": [
+    "images/sofa_1_1.jpg",
+    "images/sofa_1_2.jpg",
+    "images/sofa_1_3.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Living_room_seating/Three_seat_sofas/29274749",
+  "model": "STOCKSUND"
+}

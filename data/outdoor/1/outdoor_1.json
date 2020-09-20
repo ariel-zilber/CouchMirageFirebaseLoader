@@ -1,0 +1,22 @@
+{
+  "sizes": [
+    32,
+    15,
+    15
+  ],
+  "details": {
+    "description": "אין נתון ",
+    "good_to_know": "אין נתון"
+  },
+  "category": "OUTDOOR FURNITURE",
+  "price": 49,
+  "color": "white",
+  "rendable": "models/outdoor_1.glb",
+  "images": [
+    "images/outdoor_1_1.jpg",
+    "images/outdoor_1_2.jpg",
+    "images/outdoor_1_3.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Decoration/Plant_pots/80285787",
+  "model": "BITTERGURKA"
+}

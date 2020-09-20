@@ -1,0 +1,22 @@
+{
+  "sizes": [
+    48,
+    40,
+    55
+  ],
+  "details": {
+    "description": "מתאים גם כשידה לצד המיטה.\nמגירות עמוקות; יותר מקום אחסון.",
+    "good_to_know": "ניתן לשלב עם רהיטים אחרים מסדרת MALM.\nהמגירה מתאימה לכ-5 זוגות מכנסיים מקופלים או 10 חולצות. "
+  },
+  "category": "STORAGE FURNITURE",
+  "price": 245,
+  "color": "white",
+  "rendable": "models/drawer_2.glb",
+  "images": [
+    "images/drawer_2_1.jpg",
+    "images/drawer_2_2.jpg",
+    "images/drawer_2_3.jpg"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Bedroom_furniture/Chest_of_drawers/80214549",
+  "model": "MALM"
+}
