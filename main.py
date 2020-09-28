@@ -13,7 +13,7 @@ from os.path import isfile, join
 #
 STORAGE_PATH = "gs://couchmirage-74314.appspot.com/"
 CERTIFICATE = "/home/arikzil/Desktop/projects/CouchMirageFirebaseLoader/key.json"
-DATA_PATH = "//data"
+DATA_PATH = "TO_ADD"
 
 
 def load_json(file_path):
@@ -35,7 +35,7 @@ def main():
     cred = credentials.Certificate(CERTIFICATE)
     app = firebase_admin.initialize_app(cred, {'storageBucket': STORAGE_PATH})
     store = firestore.client()
-    doc_ref = store.collection(u'furniture')
+    doc_ref = store.collection(u'BEDS & MATTRESSES')
     docs = doc_ref.get()
     bucket = storage.bucket("couchmirage-74314.appspot.com")
 
@@ -69,16 +69,16 @@ def main():
                 # add record
                 doc_ref.add(item_data)
 
-                # add model
-                fileName = path + '/' + index + '/' + model
-                blob = bucket.blob('models/' + model)
-                blob.upload_from_filename(fileName)
-
-                # add images
-                for image in images:
-                    fileName = path + '/' + index + '/' + image
-                    blob = bucket.blob('images/' + image)
-                    blob.upload_from_filename(fileName)
+                # # add model
+                # fileName = path + '/' + index + '/' + model
+                # blob = bucket.blob('models/' + model)
+                # blob.upload_from_filename(fileName)
+                #
+                # # add images
+                # for image in images:
+                #     fileName = path + '/' + index + '/' + image
+                #     blob = bucket.blob('images/' + image)
+                #     blob.upload_from_filename(fileName)
             else:
                 print("Skip:" + model)
 

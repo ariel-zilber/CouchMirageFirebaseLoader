@@ -1,0 +1,21 @@
+{
+  "sizes": [
+    211,
+    154,
+    186
+  ],
+  "details": {
+    "description": "צדי מיטה מתכווננים מאפשרים שימוש במזרנים בעלי עובי שונה.\n17 לוחות עץ משכבות מודבקות; מתאימים עצמם למשקל גופכם ומשפרים את גמישות המזרן.",
+    "good_to_know": " המחיר כולל עמוד אמצעי SKORVA אולם נאסף באריזה נפרדת.\nבסיס המיטה מפסי עץ כלול במחיר אולם ארוז בנפרד.\nהוסיפו חלל אחסון מתחת למיטה בעזרת ארגזי האחסון ROMSKOG.\nמזרן ומצעים נמכרים בנפרד. "
+  },
+  "category": "MIRRORS",
+  "price": 1495,
+  "color": "black-brown/Luroy",
+  "rendable": "models/bed_1.glb",
+  "images": [
+    "https://firebasestorage.googleapis.com/v0/b/couchmirage-74314.appspot.com/o/images%2Fbed_1_1.jpg?alt=media&token=4cf5a1c6-820e-4ea6-b794-126ef21898b0",
+    "https://firebasestorage.googleapis.com/v0/b/couchmirage-74314.appspot.com/o/images%2Fbed_1_2.jpg?alt=media&token=ae143524-ac40-445d-932a-755f10e43593"
+  ],
+  "source": "https://www.ikea.co.il/catalogue/Beds_and_Mattresses/Bed_frames/69002266",
+  "model": "HEMNES"
+}
